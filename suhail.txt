@@ -2,3 +2,4 @@ I am editing the files in suhail branch
 hello
 double hai
 double bubble
+New conflict
